@@ -29,3 +29,5 @@ The first implementation milestone is a read-only validator for one complete tum
 
 - [Product brief](docs/PRODUCT_BRIEF.md)
 - [Product mockup guides](docs/MOCKUP_GUIDES.md)
+- [Etsy/product asset discovery](docs/ASSET_DISCOVERY.md)
+- [IchoTAKU launch-film treatment](docs/ICHOTAKU_LAUNCH_FILM_TREATMENT.md)
