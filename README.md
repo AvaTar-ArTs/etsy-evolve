@@ -27,6 +27,8 @@ The first implementation milestone is a read-only validator for one complete tum
 
 ## Project documentation
 
+- [Documentation index](docs/DOCUMENTATION_INDEX.md)
+- [Changelog](CHANGELOG.md)
 - [Product brief](docs/PRODUCT_BRIEF.md)
 - [Product mockup guides](docs/MOCKUP_GUIDES.md)
 - [Etsy/product asset discovery](docs/ASSET_DISCOVERY.md)
@@ -45,6 +47,7 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Stitch design system](DESIGN.md)
 - [HTML reference review](docs/HTML_REFERENCE_REVIEW.md)
 - [Documents Markdown/HTML reference audit](docs/DOCUMENTS_REFERENCE_AUDIT.md)
+- [Home gap audit](docs/HOME_GAP_AUDIT.md)
 - [SEO signal search report](docs/SEO_SIGNAL_SEARCH_REPORT.md)
 - [Signal Forge SEO report](docs/SEO_SIGNAL_FORGE_REPORT.md)
 - [Signal Forge scorecard](docs/SEO_SIGNAL_SCORECARD.csv)
