@@ -43,3 +43,6 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Stitch design system](DESIGN.md)
 - [HTML reference review](docs/HTML_REFERENCE_REVIEW.md)
 - [Static research console](site/index.html)
+- [Signal atlas](site/catalog.html)
+- [Keyword lab](site/keyword-lab.html)
+- [Creative expansion plan](docs/CREATIVE_EXPANSION_PLAN.md)
