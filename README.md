@@ -31,3 +31,7 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Product mockup guides](docs/MOCKUP_GUIDES.md)
 - [Etsy/product asset discovery](docs/ASSET_DISCOVERY.md)
 - [IchoTAKU launch-film treatment](docs/ICHOTAKU_LAUNCH_FILM_TREATMENT.md)
+- [Notion XEO/SEO research synthesis](docs/NOTION_XEO_RESEARCH.md)
+- [Product-family SEO and evidence crosswalk](docs/PRODUCT_SEO_CROSSWALK.md)
+- [Paste XEO/SEO research](docs/PASTE_XEO_SEO_RESEARCH.md)
+- [Trend and product SEO audit](docs/ETSY_TREND_SEO_AUDIT_2026-10.md)
