@@ -120,3 +120,30 @@ Keyword research:
 ## Search limitations
 
 The mounted archive volumes are large and some recursive scans are slow. The locate strategy therefore uses bounded product roots, `rg --files` filename signals, and exact known CSV/mockup roots. Broad home-volume scans are intentionally not treated as complete inventories.
+
+## Notion research findings
+
+Read-only Notion research was added on 2026-10-06. The connection returned workspace keyword search and page fetch results, but its AI/connected-source search was unavailable; the findings below are therefore Notion workspace evidence, not a live Etsy-market report. Temporary signed image URLs and credentials were intentionally excluded.
+
+### MyDesigns catalog and tumbler references
+
+- [MyDesign MockUp (1)](https://app.notion.com/p/1e736221d8b280478a48f568432d5434) contains a MyDesigns Product Catalog snapshot labelled “New Arrivals” with 196 items. Examples include Sport-Tek tees and hoodies, premium glossy phone cases, and glass/metal/porcelain ornaments. Prices are snapshot values and must be rechecked in MyDesigns before publishing.
+- [12oz Wine Tumbler](https://app.notion.com/p/ffcd9f90-aba5-4867-82db-6c35eeaba91d) is a saved MyDesigns / Creative FaBrica tumbler reference under Home & Living → All Tumblers. It is a product-reference lead, not proof of Etsy demand.
+- The saved MyDesigns product signals support keeping tumbler wraps, T-shirts, hoodies, cases, and ornaments as separate product families. Do not reuse physical-POD mockups or pricing in the digital-wrap CSV.
+
+### Product governance and launch planning
+
+- [Template Product Catalog](https://app.notion.com/p/1575a121a1024b00b8304b1701dae297) is a reusable catalog schema. Its data source is `collection://2eeeed89-0682-4141-8a42-66416f62b92f` and includes Name, Audience, Core Differentiator, Next Action, Platform, Price, Product Type, Promise, Sales URL, and Status.
+- The current rows include Mascot Starter Kit ($19, Building), Creative AI Prompt Lab ($29, Idea), and Mascot Production OS ($49, Idea). These are productization benchmarks and launch-governance examples, not Etsy listings.
+- [Marketplace Listing Template](https://app.notion.com/p/d1c8b318-c266-404f-b8f3-04473f32fba6), [Templates](https://app.notion.com/p/12ca1231-c440-4aa6-a237-fbdc8f92b90c), and [Current Priorities & Next Steps](https://app.notion.com/p/3c036221-d8b2-8152-9569-f74057e47a55) support a repeatable flow: define audience/promise/differentiator, prepare marketplace assets, then run a small pilot before scaling.
+
+### SEO, trend, and product-idea signals
+
+- [SEO Metadata](https://app.notion.com/p/2bc36221-d8b2-8035-9951-c499a2b52340) provides cross-channel metadata patterns and a core AvatarArts keyword set: “AI Art Workflow,” “Creative Automation Tools,” “Generative Automation,” “Image Prompt Generator,” and “AI Music Generator.” Adapt these to Etsy only when they describe the actual product; they are not tumbler keywords by themselves.
+- [20+ digital products that you should Create](https://app.notion.com/p/2bd36221-d8b2-8107-9d89-dd0ffec960a5) is an idea inventory containing digital stickers, merchandise designs, 3D models, fonts, social graphics, recipe books, email templates, and services. Treat it as brainstorming, not demand validation.
+- [Discover & Download AI-Generated Art for Print-On-Demand](https://app.notion.com/p/766e5ee7-863d-4aec-88ce-1c98a2363aea) preserves MyDesigns Dream popularity/rank examples such as watercolor whiskey-glass art, neon mushrooms, golfer silhouettes, love graphics, and football graphics. These are style/prompt signals, not current Etsy sales.
+- [SEO AEO Hot rising](https://app.notion.com/p/2ba36221-d8b2-8047-836b-c59019397085) and [Trending 113](https://app.notion.com/p/10f913d1-6a29-4da0-9e03-b7a7847e4c4a) describe trend-research methods such as comparing recurring keywords, autocomplete, related queries, and search volume. Use them to generate hypotheses, then validate against current Etsy search and listing performance.
+
+### Notion-to-repo decision
+
+Notion is now a research source and planning layer. The repo remains the reproducible inventory and publishing-QA layer. Keep four schemas separate: digital tumbler, digital T-shirt artwork, physical POD, and multi-file bundle. Any product promoted from a Notion idea to an Etsy listing must pass the existing one-draft test, including correct file slots, mockups, disclaimer, tags, price, and personalization-off check.
