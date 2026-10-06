@@ -38,3 +38,5 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Home examples audit](docs/HOME_EXAMPLES_AUDIT.md)
 - [Etsy posting packs](docs/ETSY_POSTING_PACKS.md)
 - [Keyword posting matrix](docs/KEYWORD_POSTING_MATRIX.csv)
+- [BubbleSpider competitive audit](docs/BUBBLESPIDER_COMPETITIVE_AUDIT.md)
+- [POD signal ledger template](docs/POD_SIGNAL_LEDGER_TEMPLATE.csv)
