@@ -35,3 +35,6 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Product-family SEO and evidence crosswalk](docs/PRODUCT_SEO_CROSSWALK.md)
 - [Paste XEO/SEO research](docs/PASTE_XEO_SEO_RESEARCH.md)
 - [Trend and product SEO audit](docs/ETSY_TREND_SEO_AUDIT_2026-10.md)
+- [Home examples audit](docs/HOME_EXAMPLES_AUDIT.md)
+- [Etsy posting packs](docs/ETSY_POSTING_PACKS.md)
+- [Keyword posting matrix](docs/KEYWORD_POSTING_MATRIX.csv)
