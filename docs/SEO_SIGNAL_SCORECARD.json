@@ -1,0 +1,111 @@
+{
+  "name": "Signal Forge",
+  "purpose": "Evidence-weighted Etsy SEO opportunity ranking",
+  "formula": "35% evidence + 20% freshness + 30% product fit + 15% differentiation",
+  "rows": [
+    {
+      "product_family": "tumbler-digital",
+      "keyword": "20oz tumbler wrap PNG",
+      "evidence": "observed",
+      "freshness": 0.85,
+      "product_fit": 1.0,
+      "differentiation": 0.7,
+      "creative_angle": "signalwave / nocturnal broadcast wrap",
+      "source": "Etsy comparable listings",
+      "score": 92.5,
+      "review_gate": "draft now",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "journal-tablet",
+      "keyword": "hyperlinked digital reading journal",
+      "evidence": "observed",
+      "freshness": 0.8,
+      "product_fit": 0.95,
+      "differentiation": 0.85,
+      "creative_angle": "book capacity + guided review system",
+      "source": "Etsy comparable listings",
+      "score": 92.2,
+      "review_gate": "draft now",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "tumbler-digital",
+      "keyword": "straight tapered tumbler wrap",
+      "evidence": "observed",
+      "freshness": 0.85,
+      "product_fit": 1.0,
+      "differentiation": 0.65,
+      "creative_angle": "show both files and the fit comparison",
+      "source": "Etsy comparable listings",
+      "score": 91.8,
+      "review_gate": "draft now",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "journal-printable",
+      "keyword": "printable reading journal PDF",
+      "evidence": "observed",
+      "freshness": 0.8,
+      "product_fit": 1.0,
+      "differentiation": 0.7,
+      "creative_angle": "dark academia / illustrated review pages",
+      "source": "Etsy comparable listings",
+      "score": 91.5,
+      "review_gate": "draft now",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "shirt-digital",
+      "keyword": "T-shirt design PNG SVG",
+      "evidence": "supported",
+      "freshness": 0.65,
+      "product_fit": 1.0,
+      "differentiation": 0.72,
+      "creative_angle": "TrashCat dark-humor collection",
+      "source": "local product files + Etsy comparison",
+      "score": 80.0,
+      "review_gate": "draft now",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "wall-art-digital",
+      "keyword": "castlecore printable wall art",
+      "evidence": "supported",
+      "freshness": 0.6,
+      "product_fit": 0.9,
+      "differentiation": 0.88,
+      "creative_angle": "rococo cottage / nocturnal signalwave crossover",
+      "source": "local trend pack + posting matrix",
+      "score": 78.5,
+      "review_gate": "draft now",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "seasonal-shirt",
+      "keyword": "matching family Halloween shirt design",
+      "evidence": "hypothesis",
+      "freshness": 0.55,
+      "product_fit": 0.95,
+      "differentiation": 0.62,
+      "creative_angle": "Boo Crew story-world variants",
+      "source": "local seasonal pack",
+      "score": 61.0,
+      "review_gate": "validate evidence",
+      "checked_on": "2026-10-06"
+    },
+    {
+      "product_family": "stl",
+      "keyword": "castle cookie cutter STL",
+      "evidence": "hypothesis",
+      "freshness": 0.5,
+      "product_fit": 0.8,
+      "differentiation": 0.78,
+      "creative_angle": "four-size maker test pack",
+      "source": "local posting matrix",
+      "score": 57.9,
+      "review_gate": "validate evidence",
+      "checked_on": "2026-10-06"
+    }
+  ]
+}

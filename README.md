@@ -37,11 +37,24 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Trend and product SEO audit](docs/ETSY_TREND_SEO_AUDIT_2026-10.md)
 - [Home examples audit](docs/HOME_EXAMPLES_AUDIT.md)
 - [Etsy posting packs](docs/ETSY_POSTING_PACKS.md)
+- [Etsy comparable-product review](docs/ETSY_COMPETITIVE_COMPARE_2026-10.md)
+- [Etsy comparison matrix](docs/ETSY_COMPARISON_MATRIX.csv)
 - [Keyword posting matrix](docs/KEYWORD_POSTING_MATRIX.csv)
 - [BubbleSpider competitive audit](docs/BUBBLESPIDER_COMPETITIVE_AUDIT.md)
 - [POD signal ledger template](docs/POD_SIGNAL_LEDGER_TEMPLATE.csv)
 - [Stitch design system](DESIGN.md)
 - [HTML reference review](docs/HTML_REFERENCE_REVIEW.md)
+- [Documents Markdown/HTML reference audit](docs/DOCUMENTS_REFERENCE_AUDIT.md)
+- [SEO signal search report](docs/SEO_SIGNAL_SEARCH_REPORT.md)
+- [Signal Forge SEO report](docs/SEO_SIGNAL_FORGE_REPORT.md)
+- [Signal Forge scorecard](docs/SEO_SIGNAL_SCORECARD.csv)
+
+Rebuild the deterministic scorecard and report with:
+
+```bash
+python3 scripts/build_signal_forge.py
+```
+
 - [Static research console](site/index.html)
 - [Signal atlas](site/catalog.html)
 - [Keyword lab](site/keyword-lab.html)
