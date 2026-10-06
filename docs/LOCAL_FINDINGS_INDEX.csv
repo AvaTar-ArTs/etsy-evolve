@@ -1,0 +1,25 @@
+format,category,path,status,notes
+md,etsy,/Users/steven/etsy-launch-queue.md,located,queue reference
+md,etsy,/Users/steven/best-tik-etsy.md,located,trend/listing reference
+md,seo,/Users/steven/SEO_branding_analysis.md,located,SEO reference
+md,etsy-research,/Users/steven/pythons/tools/DATA_UTILITIES_doc-generator_content/etsy-bestseller-research.md,located,bestseller research
+json,ichotaku,/Users/steven/eso-play/ichoTaku-current-image-batch-2026-08-16/manifest.json,located,image batch manifest
+json,ichotaku,/Users/steven/ichoTaKu.avatararts.org/investigation/deep-dive-archives.json,located,archive investigation
+json,etsy,/Users/steven/Pictures/etSy/top-trend-seo-packs/back_to_school_2025/titles_tags_descriptions.json,located,trend copy pack
+csv,etsy-trends,/Users/steven/Pictures/etSy/top-trend-seo-packs/back_to_school_2025/titles_tags_descriptions.csv,located,trend copy pack
+csv,etsy-trends,/Users/steven/Pictures/etSy/top-trend-seo-packs/cherry_coded/titles_tags_descriptions.csv,located,trend copy pack
+csv,etsy-trends,/Users/steven/Pictures/etSy/top-trend-seo-packs/stl_printables/titles_tags_descriptions.csv,located,trend copy pack
+csv,etsy-trends,/Users/steven/Pictures/etSy/top-trend-seo-packs/halloween_2025/titles_tags_descriptions.csv,located,trend copy pack
+csv,etsy-trends,/Users/steven/Pictures/etSy/top-trend-seo-packs/chateaucore_castlecore/titles_tags_descriptions.csv,located,trend copy pack
+csv,bestseller,/Users/steven/etsy-best-sellers-scraper_2025-08-05_09-42-51-455.csv,located,scraped bestseller data
+csv,etsy,/Users/steven/Downloads/06_Archives/zzip/downloads_redo_bundle/etsy_pack_v2/etsy_listing_drafts_v2.csv,located,listing drafts
+csv,ichotaku,/Users/steven/ichoTaKu.avatararts.org/investigation/inventory.csv,located,Ichotaku inventory
+csv,ichotaku,/Users/steven/Downloads/vidIQ CSV export for choTaku 2026-08-16.csv,located,video SEO export
+csv,seo,/Users/steven/AVATARARTS/business/marketing/keyword-research/Trending_keywords.csv,located,keyword research
+csv,seo,/Users/steven/AVATARARTS/business/marketing/keyword-research/trending-designs.csv,located,trend designs
+csv,seo,/Users/steven/AVATARARTS/business/marketing/keyword-research/keywords-hot-trends.csv,located,hot trend keywords
+csv,seo,/Users/steven/AVATARARTS/business/marketing/keyword-research/SEO_variations_trending_top1-5.csv,located,SEO variations
+html,etsy,/Users/steven/needs-sorted/html-exports/best-trending-printify-ai-c60cdbb1.html,located,trend/product research
+html,seo,/Users/steven/needs-sorted/html-exports/ChatGPT-SEO_automation_strategy.html,located,SEO strategy
+html,ichotaku,/Users/steven/ACCOS-CreativeAI-Music-Engine/chotaku/templates/index.html,located,Ichotaku site template
+html,ichotaku,/Users/steven/ACCOS-CreativeAI-Music-Engine/chotaku/mvp/static_deploy/index.html,located,Ichotaku deploy surface
