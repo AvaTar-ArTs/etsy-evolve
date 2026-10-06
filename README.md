@@ -29,6 +29,7 @@ The first implementation milestone is a read-only validator for one complete tum
 
 - [Documentation index](docs/DOCUMENTATION_INDEX.md)
 - [Changelog](CHANGELOG.md)
+- [Evidence-first evolution gate](docs/DOCUMENTATION_INDEX.md#evidence-first-evolution-gate)
 - [Product brief](docs/PRODUCT_BRIEF.md)
 - [Product mockup guides](docs/MOCKUP_GUIDES.md)
 - [Etsy/product asset discovery](docs/ASSET_DISCOVERY.md)

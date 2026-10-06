@@ -60,6 +60,17 @@ python3 scripts/build_signal_forge.py
 The generator updates the Signal Forge CSV, JSON, and Markdown report. Review
 the resulting diff before committing.
 
+## Evidence-first evolution gate
+
+- `.cursor/hooks.json` — project hook configuration for the creation gate.
+- `.cursor/hooks/evidence-first-evolver.sh` — prompts a host agent to inspect
+  existing capability before creating new machinery.
+- `.cursor/agents/evidence-first-evolver.md` — reusable reasoning contract for
+  locate → comprehend → reuse/adapt/create → verify.
+
+The files are configured in this repository; host-level hook activation still
+requires verification in the editor's Hooks output/settings surface.
+
 ## Publication boundary
 
 Every product row remains `draft_review` or `prepare_only` until its local
