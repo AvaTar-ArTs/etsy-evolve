@@ -40,3 +40,4 @@ The first implementation milestone is a read-only validator for one complete tum
 - [Keyword posting matrix](docs/KEYWORD_POSTING_MATRIX.csv)
 - [BubbleSpider competitive audit](docs/BUBBLESPIDER_COMPETITIVE_AUDIT.md)
 - [POD signal ledger template](docs/POD_SIGNAL_LEDGER_TEMPLATE.csv)
+- [Stitch design system](DESIGN.md)
